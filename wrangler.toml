@@ -1,0 +1,8 @@
+name = "forex-robot-backend"
+main = "src/index.js"
+compatibility_date = "2026-10-18"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "forex-robot-candles"
+database_id = "ebaccbcf-d053-4609-9312-63eba1597a8b"
