@@ -1,0 +1,315 @@
+{
+  "fetchedAt": "2026-10-18T10:21:33.082Z",
+  "version": 1,
+  "source": "curated + cache",
+  "forex": [
+    {
+      "symbol": "AUDCAD",
+      "name": "Australian Dollar / Canadian Dollar"
+    },
+    {
+      "symbol": "AUDCHF",
+      "name": "Australian Dollar / Swiss Franc"
+    },
+    {
+      "symbol": "AUDJPY",
+      "name": "Australian Dollar / Japanese Yen"
+    },
+    {
+      "symbol": "AUDNZD",
+      "name": "Australian Dollar / New Zealand Dollar"
+    },
+    {
+      "symbol": "AUDUSD",
+      "name": "Australian Dollar / U.S. Dollar"
+    },
+    {
+      "symbol": "CADCHF",
+      "name": "Canadian Dollar / Swiss Franc"
+    },
+    {
+      "symbol": "CADJPY",
+      "name": "Canadian Dollar / Japanese Yen"
+    },
+    {
+      "symbol": "CHFJPY",
+      "name": "Swiss Franc / Japanese Yen"
+    },
+    {
+      "symbol": "EURAUD",
+      "name": "Euro / Australian Dollar"
+    },
+    {
+      "symbol": "EURCAD",
+      "name": "Euro / Canadian Dollar"
+    },
+    {
+      "symbol": "EURCHF",
+      "name": "Euro / Swiss Franc"
+    },
+    {
+      "symbol": "EURGBP",
+      "name": "Euro / British Pound"
+    },
+    {
+      "symbol": "EURJPY",
+      "name": "Euro / Japanese Yen"
+    },
+    {
+      "symbol": "EURNOK",
+      "name": "Euro / Norwegian Krone"
+    },
+    {
+      "symbol": "EURNZD",
+      "name": "Euro / New Zealand Dollar"
+    },
+    {
+      "symbol": "EURPLN",
+      "name": "Euro / Polish Zloty"
+    },
+    {
+      "symbol": "EURSEK",
+      "name": "Euro / Swedish Krona"
+    },
+    {
+      "symbol": "EURTRY",
+      "name": "Euro / Turkish Lira"
+    },
+    {
+      "symbol": "EURUSD",
+      "name": "Euro / U.S. Dollar"
+    },
+    {
+      "symbol": "EURZAR",
+      "name": "Euro / South African Rand"
+    },
+    {
+      "symbol": "GBPAUD",
+      "name": "British Pound / Australian Dollar"
+    },
+    {
+      "symbol": "GBPCAD",
+      "name": "British Pound / Canadian Dollar"
+    },
+    {
+      "symbol": "GBPCHF",
+      "name": "British Pound / Swiss Franc"
+    },
+    {
+      "symbol": "GBPJPY",
+      "name": "British Pound / Japanese Yen"
+    },
+    {
+      "symbol": "GBPNOK",
+      "name": "British Pound / Norwegian Krone"
+    },
+    {
+      "symbol": "GBPNZD",
+      "name": "British Pound / New Zealand Dollar"
+    },
+    {
+      "symbol": "GBPSEK",
+      "name": "British Pound / Swedish Krona"
+    },
+    {
+      "symbol": "GBPUSD",
+      "name": "British Pound / U.S. Dollar"
+    },
+    {
+      "symbol": "GBPZAR",
+      "name": "British Pound / South African Rand"
+    },
+    {
+      "symbol": "NZDCAD",
+      "name": "New Zealand Dollar / Canadian Dollar"
+    },
+    {
+      "symbol": "NZDCHF",
+      "name": "New Zealand Dollar / Swiss Franc"
+    },
+    {
+      "symbol": "NZDJPY",
+      "name": "New Zealand Dollar / Japanese Yen"
+    },
+    {
+      "symbol": "NZDUSD",
+      "name": "New Zealand Dollar / U.S. Dollar"
+    },
+    {
+      "symbol": "USDCAD",
+      "name": "U.S. Dollar / Canadian Dollar"
+    },
+    {
+      "symbol": "USDCHF",
+      "name": "U.S. Dollar / Swiss Franc"
+    },
+    {
+      "symbol": "USDCNH",
+      "name": "U.S. Dollar / Offshore Chinese Yuan"
+    },
+    {
+      "symbol": "USDHKD",
+      "name": "U.S. Dollar / Hong Kong Dollar"
+    },
+    {
+      "symbol": "USDJPY",
+      "name": "U.S. Dollar / Japanese Yen"
+    },
+    {
+      "symbol": "USDMXN",
+      "name": "U.S. Dollar / Mexican Peso"
+    },
+    {
+      "symbol": "USDNOK",
+      "name": "U.S. Dollar / Norwegian Krone"
+    },
+    {
+      "symbol": "USDSEK",
+      "name": "U.S. Dollar / Swedish Krona"
+    },
+    {
+      "symbol": "USDSGD",
+      "name": "U.S. Dollar / Singapore Dollar"
+    },
+    {
+      "symbol": "USDTRY",
+      "name": "U.S. Dollar / Turkish Lira"
+    },
+    {
+      "symbol": "USDZAR",
+      "name": "U.S. Dollar / South African Rand"
+    }
+  ],
+  "commodities": [
+    {
+      "symbol": "COPPER",
+      "name": "Copper"
+    },
+    {
+      "symbol": "NATGAS",
+      "name": "Natural Gas"
+    },
+    {
+      "symbol": "UKOIL",
+      "name": "Brent Crude Oil"
+    },
+    {
+      "symbol": "USOIL",
+      "name": "WTI Crude Oil"
+    },
+    {
+      "symbol": "XAGUSD",
+      "name": "Silver / U.S. Dollar"
+    },
+    {
+      "symbol": "XAUUSD",
+      "name": "Gold / U.S. Dollar"
+    },
+    {
+      "symbol": "XPDUSD",
+      "name": "Palladium / U.S. Dollar"
+    },
+    {
+      "symbol": "XPTUSD",
+      "name": "Platinum / U.S. Dollar"
+    }
+  ],
+  "crypto": [
+    {
+      "symbol": "ADAUSD",
+      "name": "Cardano / U.S. Dollar"
+    },
+    {
+      "symbol": "BNBUSD",
+      "name": "Binance Coin / U.S. Dollar"
+    },
+    {
+      "symbol": "BTCUSD",
+      "name": "Bitcoin / U.S. Dollar"
+    },
+    {
+      "symbol": "DOGEUSD",
+      "name": "Dogecoin / U.S. Dollar"
+    },
+    {
+      "symbol": "ETHUSD",
+      "name": "Ethereum / U.S. Dollar"
+    },
+    {
+      "symbol": "LTCUSD",
+      "name": "Litecoin / U.S. Dollar"
+    },
+    {
+      "symbol": "SOLUSD",
+      "name": "Solana / U.S. Dollar"
+    },
+    {
+      "symbol": "XRPUSD",
+      "name": "Ripple / U.S. Dollar"
+    }
+  ],
+  "indices": [
+    {
+      "symbol": "AUS200",
+      "name": "ASX 200"
+    },
+    {
+      "symbol": "GER40",
+      "name": "DAX 40"
+    },
+    {
+      "symbol": "JP225",
+      "name": "Nikkei 225"
+    },
+    {
+      "symbol": "NAS100",
+      "name": "Nasdaq 100"
+    },
+    {
+      "symbol": "SPX500",
+      "name": "S&P 500"
+    },
+    {
+      "symbol": "UK100",
+      "name": "FTSE 100"
+    },
+    {
+      "symbol": "US30",
+      "name": "Dow Jones 30"
+    }
+  ],
+  "stocks": [
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc."
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc."
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corp."
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix Inc."
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corp."
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc."
+    }
+  ]
+}
