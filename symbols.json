@@ -1,23 +1,487 @@
 {
-  "fetchedAt": "2026-10-19T23:23:39.871Z",
-  "version": 1,
-  "source": "curated + cache",
+  "fetchedAt": "2026-10-19T23:30:57.858Z",
+  "version": 2,
+  "source": "FCS /forex/list + curated",
   "forex": [
+    {
+      "symbol": "AEDAUD",
+      "name": "U.A.E. DIRHAM / AUSTRALIAN DOLLAR"
+    },
+    {
+      "symbol": "AEDBRX",
+      "name": "U.A.E. DIRHAM / BRAZILIAN REAL REFERENCE RATE"
+    },
+    {
+      "symbol": "AEDCAD",
+      "name": "U.A.E. DIRHAM / CANADIAN DOLLAR"
+    },
+    {
+      "symbol": "AEDCHF",
+      "name": "U.A.E. DIRHAM / SWISS FRANC"
+    },
+    {
+      "symbol": "AEDEUR",
+      "name": "U.A.E. DIRHAM / EURO"
+    },
+    {
+      "symbol": "AEDGBP",
+      "name": "U.A.E. DIRHAM / BRITISH POUND"
+    },
+    {
+      "symbol": "AEDHKD",
+      "name": "U.A.E. DIRHAM / HONG KONG DOLLAR"
+    },
+    {
+      "symbol": "AEDINR",
+      "name": "U.A.E. DIRHAM / INDIAN RUPEE"
+    },
+    {
+      "symbol": "AEDJPY",
+      "name": "U.A.E. DIRHAM / JAPANESE YEN"
+    },
+    {
+      "symbol": "AEDKRW",
+      "name": "U.A.E. DIRHAM / SOUTH KOREAN WON"
+    },
+    {
+      "symbol": "AEDKWD",
+      "name": "U.A.E. DIRHAM / KUWAITI DINAR"
+    },
+    {
+      "symbol": "AEDLKR",
+      "name": "U.A.E. DIRHAM / SRI LANKAN RUPEE"
+    },
+    {
+      "symbol": "AEDMAD",
+      "name": "U.A.E. DIRHAM / MOROCCAN DIRHAM"
+    },
+    {
+      "symbol": "AEDMUR",
+      "name": "U.A.E. DIRHAM / MAURITIAN RUPEE"
+    },
+    {
+      "symbol": "AEDMYX",
+      "name": "U.A.E. DIRHAM / MALAYSIAN RINGGIT REFERENCE RATE"
+    },
+    {
+      "symbol": "AEDNOK",
+      "name": "U.A.E. DIRHAM / NORWEGIAN KRONE"
+    },
+    {
+      "symbol": "AEDNZD",
+      "name": "U.A.E. DIRHAM / NEW ZEALAND DOLLAR"
+    },
+    {
+      "symbol": "AEDOMR",
+      "name": "U.A.E. DIRHAM / OMANI RIAL"
+    },
+    {
+      "symbol": "AEDPKR",
+      "name": "U.A.E. DIRHAM / PAKISTANI RUPEE"
+    },
+    {
+      "symbol": "AEDQAR",
+      "name": "U.A.E. DIRHAM / QATARI RIAL"
+    },
+    {
+      "symbol": "AEDSAR",
+      "name": "U.A.E. DIRHAM / SAUDI ARABIAN RIYAL"
+    },
+    {
+      "symbol": "AEDSEK",
+      "name": "U.A.E. DIRHAM / SWEDISH KRONA"
+    },
+    {
+      "symbol": "AEDSGD",
+      "name": "U.A.E. DIRHAM / SINGAPORE DOLLAR"
+    },
+    {
+      "symbol": "AEDSGX",
+      "name": "U.A.E. DIRHAM / SGX"
+    },
+    {
+      "symbol": "AEDTHX",
+      "name": "U.A.E. DIRHAM / THAI BAHT REFERENCE RATE"
+    },
+    {
+      "symbol": "AEDTRY",
+      "name": "U.A.E. DIRHAM / TURKISH LIRA"
+    },
+    {
+      "symbol": "AEDUSD",
+      "name": "U.A.E. DIRHAM / U.S. DOLLAR"
+    },
+    {
+      "symbol": "AEDXDR",
+      "name": "U.A.E. DIRHAM / SPECIAL DRAWING RIGHT"
+    },
+    {
+      "symbol": "AEDZAR",
+      "name": "U.A.E. DIRHAM / SOUTH AFRICAN RAND"
+    },
+    {
+      "symbol": "AFNBRX",
+      "name": "AFGHAN AFGHANI / BRAZILIAN REAL REFERENCE RATE"
+    },
+    {
+      "symbol": "AFNUSD",
+      "name": "AFGHAN AFGHANI / U.S. DOLLAR"
+    },
+    {
+      "symbol": "ALLBRX",
+      "name": "ALBANIAN LEK / BRAZILIAN REAL REFERENCE RATE"
+    },
+    {
+      "symbol": "ALLUSD",
+      "name": "ALBANIAN LEK / U.S. DOLLAR"
+    },
+    {
+      "symbol": "AMDBRX",
+      "name": "ARMENIAN DRAM / BRAZILIAN REAL REFERENCE RATE"
+    },
+    {
+      "symbol": "AOABRX",
+      "name": "ANGOLAN KWANZA / BRAZILIAN REAL REFERENCE RATE"
+    },
+    {
+      "symbol": "AOAUSD",
+      "name": "ANGOLAN KWANZA / U.S. DOLLAR"
+    },
+    {
+      "symbol": "ARSBRL",
+      "name": "ARGENTINE PESO / BRAZILIAN REAL"
+    },
+    {
+      "symbol": "ARSBRX",
+      "name": "ARGENTINE PESO / BRAZILIAN REAL REFERENCE RATE"
+    },
+    {
+      "symbol": "ARSEUR",
+      "name": "ARGENTINE PESO / EURO"
+    },
+    {
+      "symbol": "ARSGBP",
+      "name": "ARGENTINE PESO / BRITISH POUND"
+    },
+    {
+      "symbol": "ARSJPY",
+      "name": "ARGENTINE PESO / JAPANESE YEN"
+    },
+    {
+      "symbol": "ARSPLX",
+      "name": "ARGENTINE PESO / POLISH ZLOTY REFERENCE RATE"
+    },
+    {
+      "symbol": "ARSUSD",
+      "name": "ARGENTINE PESO / U.S. DOLLAR"
+    },
+    {
+      "symbol": "AUDAED",
+      "name": "AUSTRALIAN DOLLAR / U.A.E. DIRHAM"
+    },
+    {
+      "symbol": "AUDAMD",
+      "name": "AUSTRALIAN DOLLAR / ARMENIAN DRAM"
+    },
+    {
+      "symbol": "AUDARS",
+      "name": "AUSTRALIAN DOLLAR / ARGENTINE PESO"
+    },
+    {
+      "symbol": "AUDAWG",
+      "name": "AUSTRALIAN DOLLAR / ARUBAN FLORIN"
+    },
+    {
+      "symbol": "AUDBAM",
+      "name": "AUSTRALIAN DOLLAR / BOSNIAN CONVERTIBLE MARKA"
+    },
+    {
+      "symbol": "AUDBBD",
+      "name": "AUSTRALIAN DOLLAR / BARBADIAN DOLLAR"
+    },
+    {
+      "symbol": "AUDBHD",
+      "name": "AUSTRALIAN DOLLAR / BAHRAINI DINAR"
+    },
+    {
+      "symbol": "AUDBMD",
+      "name": "AUSTRALIAN DOLLAR / BERMUDIAN DOLLAR"
+    },
+    {
+      "symbol": "AUDBOB",
+      "name": "AUSTRALIAN DOLLAR / BOLIVIAN BOLIVIANO"
+    },
+    {
+      "symbol": "AUDBRL",
+      "name": "AUSTRALIAN DOLLAR / BRAZILIAN REAL"
+    },
+    {
+      "symbol": "AUDBRX",
+      "name": "AUSTRALIAN DOLLAR / BRAZILIAN REAL REFERENCE RATE"
+    },
+    {
+      "symbol": "AUDBSD",
+      "name": "AUSTRALIAN DOLLAR / BAHAMIAN DOLLAR"
+    },
+    {
+      "symbol": "AUDBWP",
+      "name": "AUSTRALIAN DOLLAR / BOTSWANAN PULA"
+    },
+    {
+      "symbol": "AUDBZD",
+      "name": "AUSTRALIAN DOLLAR / BELIZEAN DOLLAR"
+    },
     {
       "symbol": "AUDCAD",
       "name": "Australian Dollar / Canadian Dollar"
+    },
+    {
+      "symbol": "AUDCAX",
+      "name": "AUSTRALIAN DOLLAR / CAX"
     },
     {
       "symbol": "AUDCHF",
       "name": "Australian Dollar / Swiss Franc"
     },
     {
+      "symbol": "AUDCLP",
+      "name": "AUSTRALIAN DOLLAR / CHILEAN PESO"
+    },
+    {
+      "symbol": "AUDCNH",
+      "name": "Australian Dollar / Offshore Chinese Yuan"
+    },
+    {
+      "symbol": "AUDCNY",
+      "name": "AUSTRALIAN DOLLAR / CHINESE YUAN"
+    },
+    {
+      "symbol": "AUDCOP",
+      "name": "AUSTRALIAN DOLLAR / COLOMBIAN PESO"
+    },
+    {
+      "symbol": "AUDCRC",
+      "name": "AUSTRALIAN DOLLAR / COSTA RICAN COLON"
+    },
+    {
+      "symbol": "AUDCZK",
+      "name": "AUSTRALIAN DOLLAR / CZECH KORUNA"
+    },
+    {
+      "symbol": "AUDCZX",
+      "name": "AUSTRALIAN DOLLAR / CZECH KORUNA REFERENCE RATE"
+    },
+    {
+      "symbol": "AUDDKK",
+      "name": "AUSTRALIAN DOLLAR / DANISH KRONE"
+    },
+    {
+      "symbol": "AUDDKX",
+      "name": "AUSTRALIAN DOLLAR / DKX"
+    },
+    {
+      "symbol": "AUDDOP",
+      "name": "AUSTRALIAN DOLLAR / DOMINICAN PESO"
+    },
+    {
+      "symbol": "AUDEGP",
+      "name": "AUSTRALIAN DOLLAR / EGYPTIAN POUND"
+    },
+    {
+      "symbol": "AUDERN",
+      "name": "AUSTRALIAN DOLLAR / ERITERIAN NAKFA"
+    },
+    {
+      "symbol": "AUDEUR",
+      "name": "AUSTRALIAN DOLLAR / EURO"
+    },
+    {
+      "symbol": "AUDFJD",
+      "name": "AUSTRALIAN DOLLAR / FIJIAN DOLLAR"
+    },
+    {
+      "symbol": "AUDGBP",
+      "name": "AUSTRALIAN DOLLAR / BRITISH POUND"
+    },
+    {
+      "symbol": "AUDGEL",
+      "name": "AUSTRALIAN DOLLAR / GEORGIAN LARI"
+    },
+    {
+      "symbol": "AUDGHS",
+      "name": "AUSTRALIAN DOLLAR / GHANAIAN CEDI"
+    },
+    {
+      "symbol": "AUDGIP",
+      "name": "AUSTRALIAN DOLLAR / GIBRALTAR POUND"
+    },
+    {
+      "symbol": "AUDGTQ",
+      "name": "AUSTRALIAN DOLLAR / GUATEMALAN QUETZAL"
+    },
+    {
+      "symbol": "AUDHKD",
+      "name": "AUSTRALIAN DOLLAR / HONG KONG DOLLAR"
+    },
+    {
+      "symbol": "AUDHNL",
+      "name": "AUSTRALIAN DOLLAR / HONDURAN LEMPIRA"
+    },
+    {
+      "symbol": "AUDHUF",
+      "name": "AUSTRALIAN DOLLAR / HUNGARIAN FORINT"
+    },
+    {
+      "symbol": "AUDHUX",
+      "name": "AUSTRALIAN DOLLAR / HUNGARIAN FORINT REFERENCE RATE"
+    },
+    {
+      "symbol": "AUDIDR",
+      "name": "AUSTRALIAN DOLLAR / INDONESIAN RUPIAH"
+    },
+    {
+      "symbol": "AUDILS",
+      "name": "AUSTRALIAN DOLLAR / ISRAELI SHEKEL"
+    },
+    {
+      "symbol": "AUDINR",
+      "name": "AUSTRALIAN DOLLAR / INDIAN RUPEE"
+    },
+    {
+      "symbol": "AUDISK",
+      "name": "AUSTRALIAN DOLLAR / ICELANDIC KRONA"
+    },
+    {
+      "symbol": "AUDISX",
+      "name": "AUSTRALIAN DOLLAR / ICELANDIC KRONA REFERENCE RATE"
+    },
+    {
+      "symbol": "AUDJMD",
+      "name": "AUSTRALIAN DOLLAR / JAMAICAN DOLLAR"
+    },
+    {
+      "symbol": "AUDJOD",
+      "name": "AUSTRALIAN DOLLAR / JORDANIAN DINAR"
+    },
+    {
       "symbol": "AUDJPY",
       "name": "Australian Dollar / Japanese Yen"
     },
     {
+      "symbol": "AUDKES",
+      "name": "AUSTRALIAN DOLLAR / KENYAN SHILLING"
+    },
+    {
+      "symbol": "AUDKRW",
+      "name": "AUSTRALIAN DOLLAR / SOUTH KOREAN WON"
+    },
+    {
+      "symbol": "AUDKWD",
+      "name": "AUSTRALIAN DOLLAR / KUWAITI DINAR"
+    },
+    {
+      "symbol": "AUDKYD",
+      "name": "AUSTRALIAN DOLLAR / CAYMANIAN DOLLAR"
+    },
+    {
+      "symbol": "AUDLKR",
+      "name": "AUSTRALIAN DOLLAR / SRI LANKAN RUPEE"
+    },
+    {
+      "symbol": "AUDMAD",
+      "name": "AUSTRALIAN DOLLAR / MOROCCAN DIRHAM"
+    },
+    {
+      "symbol": "AUDMGA",
+      "name": "AUSTRALIAN DOLLAR / MALAGASY ARIARY"
+    },
+    {
+      "symbol": "AUDMOP",
+      "name": "AUSTRALIAN DOLLAR / MACAU PATACA"
+    },
+    {
+      "symbol": "AUDMXN",
+      "name": "AUSTRALIAN DOLLAR / MEXICAN PESO"
+    },
+    {
+      "symbol": "AUDMYR",
+      "name": "AUSTRALIAN DOLLAR / MALAYSIAN RINGGIT"
+    },
+    {
+      "symbol": "AUDMYX",
+      "name": "AUSTRALIAN DOLLAR / MALAYSIAN RINGGIT REFERENCE RATE"
+    },
+    {
+      "symbol": "AUDNGN",
+      "name": "AUSTRALIAN DOLLAR / NIGERIA NAIRA"
+    },
+    {
+      "symbol": "AUDNOK",
+      "name": "Australian Dollar / Norwegian Krone"
+    },
+    {
+      "symbol": "AUDNOX",
+      "name": "AUSTRALIAN DOLLAR / NOX"
+    },
+    {
       "symbol": "AUDNZD",
       "name": "Australian Dollar / New Zealand Dollar"
+    },
+    {
+      "symbol": "AUDOMR",
+      "name": "AUSTRALIAN DOLLAR / OMANI RIAL"
+    },
+    {
+      "symbol": "AUDPEN",
+      "name": "AUSTRALIAN DOLLAR / PERUVIAN SOL"
+    },
+    {
+      "symbol": "AUDPGK",
+      "name": "AUSTRALIAN DOLLAR / PAPUA NEW GUINEAN KINA"
+    },
+    {
+      "symbol": "AUDPHP",
+      "name": "AUSTRALIAN DOLLAR / PHILIPPINE PESO"
+    },
+    {
+      "symbol": "AUDPKR",
+      "name": "AUSTRALIAN DOLLAR / PAKISTANI RUPEE"
+    },
+    {
+      "symbol": "AUDPLN",
+      "name": "Australian Dollar / Polish Zloty"
+    },
+    {
+      "symbol": "AUDPLX",
+      "name": "AUSTRALIAN DOLLAR / POLISH ZLOTY REFERENCE RATE"
+    },
+    {
+      "symbol": "AUDPYG",
+      "name": "AUSTRALIAN DOLLAR / PARAGUAYAN GUARANI"
+    },
+    {
+      "symbol": "AUDQAR",
+      "name": "AUSTRALIAN DOLLAR / QATARI RIAL"
+    },
+    {
+      "symbol": "AUDRSD",
+      "name": "AUSTRALIAN DOLLAR / SERBIAN DINAR"
+    },
+    {
+      "symbol": "AUDRUB",
+      "name": "AUSTRALIAN DOLLAR / RUSSIAN RUBLE"
+    },
+    {
+      "symbol": "AUDSAR",
+      "name": "AUSTRALIAN DOLLAR / SAUDI ARABIAN RIYAL"
+    },
+    {
+      "symbol": "AUDSCR",
+      "name": "AUSTRALIAN DOLLAR / SEYCHELLOIS RUPEE"
+    },
+    {
+      "symbol": "AUDSGD",
+      "name": "Australian Dollar / Singapore Dollar"
     },
     {
       "symbol": "AUDUSD",
@@ -32,8 +496,32 @@
       "name": "Canadian Dollar / Japanese Yen"
     },
     {
+      "symbol": "CADNOK",
+      "name": "Canadian Dollar / Norwegian Krone"
+    },
+    {
+      "symbol": "CADPLN",
+      "name": "Canadian Dollar / Polish Zloty"
+    },
+    {
+      "symbol": "CHFHUF",
+      "name": "Swiss Franc / Hungarian Forint"
+    },
+    {
       "symbol": "CHFJPY",
       "name": "Swiss Franc / Japanese Yen"
+    },
+    {
+      "symbol": "CHFNOK",
+      "name": "Swiss Franc / Norwegian Krone"
+    },
+    {
+      "symbol": "CHFPLN",
+      "name": "Swiss Franc / Polish Zloty"
+    },
+    {
+      "symbol": "CNHJPY",
+      "name": "Offshore Chinese Yuan / Japanese Yen"
     },
     {
       "symbol": "EURAUD",
@@ -48,12 +536,36 @@
       "name": "Euro / Swiss Franc"
     },
     {
+      "symbol": "EURCNH",
+      "name": "Euro / Offshore Chinese Yuan"
+    },
+    {
+      "symbol": "EURCZK",
+      "name": "Euro / Czech Koruna"
+    },
+    {
+      "symbol": "EURDKK",
+      "name": "Euro / Danish Krone"
+    },
+    {
       "symbol": "EURGBP",
       "name": "Euro / British Pound"
     },
     {
+      "symbol": "EURHKD",
+      "name": "Euro / Hong Kong Dollar"
+    },
+    {
+      "symbol": "EURHUF",
+      "name": "Euro / Hungarian Forint"
+    },
+    {
       "symbol": "EURJPY",
       "name": "Euro / Japanese Yen"
+    },
+    {
+      "symbol": "EURMXN",
+      "name": "Euro / Mexican Peso"
     },
     {
       "symbol": "EURNOK",
@@ -70,6 +582,10 @@
     {
       "symbol": "EURSEK",
       "name": "Euro / Swedish Krona"
+    },
+    {
+      "symbol": "EURSGD",
+      "name": "Euro / Singapore Dollar"
     },
     {
       "symbol": "EURTRY",
@@ -96,8 +612,20 @@
       "name": "British Pound / Swiss Franc"
     },
     {
+      "symbol": "GBPDKK",
+      "name": "British Pound / Danish Krone"
+    },
+    {
+      "symbol": "GBPHKD",
+      "name": "British Pound / Hong Kong Dollar"
+    },
+    {
       "symbol": "GBPJPY",
       "name": "British Pound / Japanese Yen"
+    },
+    {
+      "symbol": "GBPMXN",
+      "name": "British Pound / Mexican Peso"
     },
     {
       "symbol": "GBPNOK",
@@ -108,8 +636,16 @@
       "name": "British Pound / New Zealand Dollar"
     },
     {
+      "symbol": "GBPPLN",
+      "name": "British Pound / Polish Zloty"
+    },
+    {
       "symbol": "GBPSEK",
       "name": "British Pound / Swedish Krona"
+    },
+    {
+      "symbol": "GBPSGD",
+      "name": "British Pound / Singapore Dollar"
     },
     {
       "symbol": "GBPUSD",
@@ -118,6 +654,22 @@
     {
       "symbol": "GBPZAR",
       "name": "British Pound / South African Rand"
+    },
+    {
+      "symbol": "HKDJPY",
+      "name": "Hong Kong Dollar / Japanese Yen"
+    },
+    {
+      "symbol": "NOKDKK",
+      "name": "Norwegian Krone / Danish Krone"
+    },
+    {
+      "symbol": "NOKJPY",
+      "name": "Norwegian Krone / Japanese Yen"
+    },
+    {
+      "symbol": "NOKSEK",
+      "name": "Norwegian Krone / Swedish Krona"
     },
     {
       "symbol": "NZDCAD",
@@ -136,6 +688,18 @@
       "name": "New Zealand Dollar / U.S. Dollar"
     },
     {
+      "symbol": "SGDHKD",
+      "name": "Singapore Dollar / Hong Kong Dollar"
+    },
+    {
+      "symbol": "SGDJPY",
+      "name": "Singapore Dollar / Japanese Yen"
+    },
+    {
+      "symbol": "TRYJPY",
+      "name": "Turkish Lira / Japanese Yen"
+    },
+    {
       "symbol": "USDCAD",
       "name": "U.S. Dollar / Canadian Dollar"
     },
@@ -148,8 +712,24 @@
       "name": "U.S. Dollar / Offshore Chinese Yuan"
     },
     {
+      "symbol": "USDCZK",
+      "name": "U.S. Dollar / Czech Koruna"
+    },
+    {
+      "symbol": "USDDKK",
+      "name": "U.S. Dollar / Danish Krone"
+    },
+    {
       "symbol": "USDHKD",
       "name": "U.S. Dollar / Hong Kong Dollar"
+    },
+    {
+      "symbol": "USDHUF",
+      "name": "U.S. Dollar / Hungarian Forint"
+    },
+    {
+      "symbol": "USDILS",
+      "name": "U.S. Dollar / Israeli Shekel"
     },
     {
       "symbol": "USDJPY",
@@ -164,6 +744,14 @@
       "name": "U.S. Dollar / Norwegian Krone"
     },
     {
+      "symbol": "USDPLN",
+      "name": "U.S. Dollar / Polish Zloty"
+    },
+    {
+      "symbol": "USDRON",
+      "name": "U.S. Dollar / Romanian Leu"
+    },
+    {
       "symbol": "USDSEK",
       "name": "U.S. Dollar / Swedish Krona"
     },
@@ -172,12 +760,20 @@
       "name": "U.S. Dollar / Singapore Dollar"
     },
     {
+      "symbol": "USDTHB",
+      "name": "U.S. Dollar / Thai Baht"
+    },
+    {
       "symbol": "USDTRY",
       "name": "U.S. Dollar / Turkish Lira"
     },
     {
       "symbol": "USDZAR",
       "name": "U.S. Dollar / South African Rand"
+    },
+    {
+      "symbol": "ZARJPY",
+      "name": "South African Rand / Japanese Yen"
     }
   ],
   "commodities": [
